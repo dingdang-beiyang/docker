@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="62831f33-6cb9-42dd-b2f3-ad4d669123bd" name="docker_pytorch">
+        <fileTransfer accessType="SFTP" sshConfigId="65f1dc2b-1f86-4c11-93ba-26ea951b80a5" sshConfig="root@192.168.1.138:20022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
